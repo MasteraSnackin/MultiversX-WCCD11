@@ -1,0 +1,8 @@
+[package]
+name = "winter-staking"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+elrond-wasm = "0.28.0" # Ensure this matches the latest version compatible with MultiversX
+elrond-codec = "0.28.0"
